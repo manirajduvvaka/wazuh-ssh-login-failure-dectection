@@ -38,3 +38,11 @@ Skills Practiced
 Learning Outcome
 
 Learned how to monitor authentication events and investigate security alerts using Wazuh.
+
+## Project Status
+Lesson 1 completed: Ubuntu SOC lab setup and Wazuh security event investigation.
+
+## Future Improvements
+- Investigate SSH authentication failures.
+- Analyze additional Wazuh alerts.
+- Practice incident investigation.
